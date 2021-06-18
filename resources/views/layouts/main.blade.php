@@ -95,7 +95,7 @@
                     data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
 
-                        <a class="collapse-item" href="utilities-color.html">Utilisateurs</a>
+                        <a class="collapse-item" href="{{route('users')}}">Utilisateurs</a>
                         <a class="collapse-item" href="utilities-border.html">Rôles</a>
                         <a class="collapse-item" href="utilities-animation.html">Permissions</a>
 
@@ -324,6 +324,7 @@
 
                 <!-- Begin Page Content -->
                 <div class="container-fluid">
+                    @yield('content')
                 </div>
                 <!-- /.container-fluid -->
 
