@@ -3,7 +3,7 @@
 <h1 class="h3 mb-4 text-gray-800">Utilisateurs</h1>
 <div class="row">
 
-<<<<<<< HEAD
+
 <div class="card shadow mb-4">
     <div class="card-header py-3">
         <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
@@ -18,63 +18,6 @@
                     <tr><th rowspan="1" colspan="1">Name</th><th rowspan="1" colspan="1">Position</th><th rowspan="1" colspan="1">Office</th><th rowspan="1" colspan="1">Age</th><th rowspan="1" colspan="1">Start date</th><th rowspan="1" colspan="1">Salary</th></tr>
                 </tfoot>
                 <tbody>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                 <tr class="odd">
                         <td class="sorting_1">Airi Satou</td>
                         <td>Accountant</td>
